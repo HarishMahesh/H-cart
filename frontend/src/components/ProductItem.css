@@ -1,0 +1,31 @@
+.productItem-card {
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #dfdfdf;
+  cursor: pointer;
+}
+
+.productItem-img-container {
+  width: 100%;
+}
+
+.productItem-img-container > img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+}
+
+.productItem-textarea {
+  padding: 10px;
+}
+
+.card-productItem {
+  margin-top: 10px;
+  padding: 0px;
+}
+
+.productItem-card:hover {
+  transform: scale(1.02);
+}

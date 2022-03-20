@@ -1,0 +1,14 @@
+.header {
+  padding: 10px;
+}
+
+.header-options {
+  justify-content: flex-end;
+  flex: 2;
+  font-size: small;
+}
+
+.header-name {
+  letter-spacing: 5px;
+  cursor: pointer;
+}

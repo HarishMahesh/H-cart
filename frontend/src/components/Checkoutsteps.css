@@ -1,0 +1,16 @@
+.checkoutsteps-container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+
+.checkoutsteps-container-active {
+  cursor: pointer;
+  color: #84c884;
+  font-weight: bold;
+}
+
+.checkoutsteps-container-inactive {
+  color: #bfbebe;
+  font-weight: 400;
+}
